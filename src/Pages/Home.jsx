@@ -81,9 +81,9 @@ const PAUSE_DURATION = 2000;
 const WORDS = ["Selamat datang", "Di website Portfolio pribadiku"];
 const TECH_STACK = ["Html", "CSS", "Javascript", "PHP"];
 const SOCIAL_LINKS = [
-  { icon: Github, link: "https://github.com/EkiZR" },
-  { icon: Linkedin, link: "https://www.linkedin.com/in/ekizr/" },
-  { icon: Instagram, link: "https://www.instagram.com/ekizr._/?hl=id" }
+  { icon: Github, link: "https://github.com/supralabs" },
+  { icon: Linkedin, link: "https://www.linkedin.com/in/ardika/" },
+  { icon: Instagram, link: "https://www.instagram.com/danmachiedit" }
 ];
 
 const Home = () => {
